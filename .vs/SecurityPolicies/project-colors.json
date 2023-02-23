@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10dff983-72cb-44d6-ab70-7f8f111e4617": {
+      "ProjectGuid": "10dff983-72cb-44d6-ab70-7f8f111e4617",
+      "DisplayName": "SecurityPolicies",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
