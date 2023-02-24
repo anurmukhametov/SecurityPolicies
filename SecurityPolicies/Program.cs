@@ -186,7 +186,7 @@ namespace SecurityPolicies
                 }
                 else
                 {
-                    Console.Write("Объекта с таким номером не сущесвтует, попробуйте еще раз: ");
+                    Console.Write("Объекта с таким номером не существует, попробуйте еще раз: ");
                 }
             }
         }
@@ -320,7 +320,7 @@ namespace SecurityPolicies
                         }
                         else
                         {
-                            Console.Write("Неверное имя пользователя, поробуйте еще раз: ");
+                            Console.Write("Неверное имя пользователя, попробуйте еще раз: ");
                         }
                     }
                     else
